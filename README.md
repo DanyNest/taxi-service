@@ -41,6 +41,6 @@ In general, we used 3-tier architecture which include:
 6. Create Driver/ Delete Driver
 7. Get All Drivers
 8. Add Driver to Car
-####HINT :
+#### HINT:
 At the first time you run the app, try register your first `driver`with one single word for all input 
 parameters such as `admin`, for flexibility in the future testing.
